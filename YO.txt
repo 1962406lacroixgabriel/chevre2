@@ -1,1 +1,0 @@
-checkez  git log --graph c'est nice le graph de notre arbre :P
