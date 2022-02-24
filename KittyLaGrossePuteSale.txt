@@ -1,2 +1,7 @@
 c'est pas gentil comme nom !
+<<<<<<< HEAD
 Mais c'est mérité...
+=======
+
+TA GUEULE!
+>>>>>>> 0117d0b6ffa4ddad94a70a8d6f3c7d7330165d44
