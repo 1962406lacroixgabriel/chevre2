@@ -2,4 +2,8 @@ hello world!!!
 
 On est des... CHÈÈÈÈVVVVVVRRRRRRRRREEEEEEEEEEEEEEE!!!!!!!!!!!!!!!!!!
 
+<<<<<<< HEAD
 OUEP
+=======
+Mammifères de type Chèvre de type animal fermier
+>>>>>>> 4d1bc330c4d50954086b294dea1abf3f88f62376
