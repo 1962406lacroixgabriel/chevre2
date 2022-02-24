@@ -2,6 +2,13 @@ hello world!!!
 
 On est des... CHÈÈÈÈVVVVVVRRRRRRRRREEEEEEEEEEEEEEE!!!!!!!!!!!!!!!!!!
 
+<<<<<<< HEAD
+OUEP
+=======
 Mammifères de type Chèvre de type animal fermier
+<<<<<<< HEAD
 
 Chevre.ChevreLine();
+=======
+>>>>>>> 4d1bc330c4d50954086b294dea1abf3f88f62376
+>>>>>>> 7e4364f02efc6eebef2241a77f3fd761827d04de
